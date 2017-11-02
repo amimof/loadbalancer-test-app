@@ -1,0 +1,24 @@
+{
+  "name": "loadbalancer-test-app",
+  "version": "1.0.0",
+  "description": "An app to test load balancing",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amimof/loadbalancer-test-app.git"
+  },
+  "author": "Amir Mofasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amimof/loadbalancer-test-app/issues"
+  },
+  "homepage": "https://github.com/amimof/loadbalancer-test-app#readme"
+}
